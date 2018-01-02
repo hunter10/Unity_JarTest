@@ -1,0 +1,1 @@
+01-03 00:00:59.231: E/Unity(31503): AndroidJavaException: java.lang.NoSuchMethodError: no static method with name='GetStaticInt' signature='(I)I' in class Lcom.unity3d.player.UnityPlayerActivity;

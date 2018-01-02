@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudio.iml" filepath="$PROJECT_DIR$/AndroidStudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Wor\Unity_JarTest\AndroidStudio\app\app.iml" filepath="D:\Wor\Unity_JarTest\AndroidStudio\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/myplugin/myplugin.iml" filepath="$PROJECT_DIR$/myplugin/myplugin.iml" />
+      <module fileurl="file://D:\Wor\Unity_JarTest\AndroidStudio\myplugin\myplugin.iml" filepath="D:\Wor\Unity_JarTest\AndroidStudio\myplugin\myplugin.iml" />
     </modules>
   </component>
 </project>
