@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
- <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.test.plugintest">
+ <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player">
    <application android:icon="@drawable/app_icon" android:label="@string/app_name">
-   <activity android:name=".MyPluginActivity"
+   <activity android:name="com.test.myplugin.MyPluginActivity">
+   <!-- <activity android:name="com.unity3d.player.UnityPlayerActivity" -->
              android:label="@string/app_name"
              android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
          
